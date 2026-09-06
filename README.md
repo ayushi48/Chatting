@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Connect+%E2%80%A2+Communicate+%E2%80%A2+Collaborate;Real-Time+Messaging+with+Socket.io;Secure+%E2%80%A2+Fast+%E2%80%A2+Modern" alt="Typing SVG" />
 
-<br/>
+<br/> 
 
 <a href="https://chatting-frontend-wine.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-06B6D4?style=for-the-badge&logoColor=white&labelColor=6366F1" />
